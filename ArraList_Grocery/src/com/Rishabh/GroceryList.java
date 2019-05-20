@@ -4,9 +4,8 @@ import java.util.ArrayList;
 public class GroceryList {
     private ArrayList<String> groceryList= new ArrayList<String>();
 
-    public ArrayList<String> addItems(String item){
+    public void addItems(String item){
         groceryList.add(item);
-        return groceryList;
     }
 
     public ArrayList<String> getGroceryList() {
@@ -19,16 +18,41 @@ public class GroceryList {
 
     public String searchItem(String item){
         boolean exists=groceryList.contains(item);
-        int position =groceryList.indexOf(item);
+        int position =getPosition(item);
         if(position >=0 ){
-            return groceryList.get(position);
+            return (groceryList.get(position)+" found at "+position+ " ." );
         }
         else{
             return("Item Not Found");
         }
     }
-    public void removeItem(String item){
-        groceryList.remove(item);
+
+    public int modifyItem(String item1,String item2){
+        boolean exists=groceryList.contains(item1);
+        if(exists) {
+            int position = getPosition(item1);
+            groceryList.set(position, item2);
+            return 1;
+        }else{
+            return -1;
+        }
+
+    }
+
+    private int getPosition(String item){
+        int position =groceryList.indexOf(item);
+        return position;
+    }
+
+    public int removeItem(String item){
+        boolean exists=groceryList.contains(item);
+        if(exists) {
+            groceryList.remove(item);
+            return 1;
+        }else{
+            return -1;
+        }
+
     }
 
 }
