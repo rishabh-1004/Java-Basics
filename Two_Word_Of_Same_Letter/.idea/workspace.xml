@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="866dd81c-20d4-4f9e-90c3-37f086183561" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/Rishabh/CanFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/Rishabh/Penguin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstraction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstraction/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstraction/out/production/Abstraction/com/Rishabh/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstraction/out/production/Abstraction/com/Rishabh/Bird.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstraction/out/production/Abstraction/com/Rishabh/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstraction/out/production/Abstraction/com/Rishabh/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstraction/out/production/Abstraction/com/Rishabh/Parrot.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstraction/out/production/Abstraction/com/Rishabh/Parrot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstraction/src/com/Rishabh/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstraction/src/com/Rishabh/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstraction/src/com/Rishabh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstraction/src/com/Rishabh/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstraction/src/com/Rishabh/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstraction/src/com/Rishabh/Parrot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tax_Automation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tax_Automation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tax_Automation/src/com/Rishabh/Tax_Automation.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Our_Generic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Our_Generic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Rishabh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Rishabh/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/Rishabh/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="196">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -57,10 +48,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="698" />
-    <option name="height" value="746" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="699" />
+    <option name="height" value="747" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -68,10 +59,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,10 +110,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.059667673" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06053269" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -128,7 +121,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32852563" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -150,8 +143,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/Rishabh/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="196">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>

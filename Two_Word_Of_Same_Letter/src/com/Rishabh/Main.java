@@ -11,7 +11,7 @@ public class Main {
                 return "Different";
             }
         }
-        for(int i=0;i<=s1.length()-1;i++){
+        for(int i=0;i<=s2.length()-1;i++){
             if(s1.indexOf(s2.charAt(i))==-1 ){
                 return "Different";
             }
